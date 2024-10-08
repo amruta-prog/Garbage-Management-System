@@ -1,0 +1,10 @@
+Work ID,Bin ID,State ,Area ,Status,Time,Date,Driver
+1417,55,Maharashtra,Kurla,Completed,15:00:00,18-02-2022,Driver 4
+1418,56,Karnataka,CMT,In Progress,15:30:00,19-02-2022,Driver5
+1419,57,Tamil Nadu,CMT,Scheduled,16:00:00,20-02-2022,Driver 6
+1420,55,Maharashtra,BANDRA,Completed,15:00:00,18-02-2022,Driver 4
+1430,55,Maharashtra,KURLA,Completed,15:00:00,18-02-2022,Driver 4
+1417,55,Maharashtra,CST,Completed,15:00:00,18-02-2022,Driver 4
+1417,55,Maharashtra,CST,Completed,15:00:00,18-02-2022,Driver 4
+1419,57,Tamil Nadu,BANGLORE,Scheduled,16:00:00,20-02-2022,Driver 6
+1418,56,Karnataka,CMT,In Progress,15:30:00,19-02-2022,Driver5
